@@ -34,6 +34,7 @@ cd dom-array-methods
 5. Show Only Millionaires: The user can filter the list to show only users with more than $1,000,000.
 6. Calculate Total Wealth: The user can calculate and display the total wealth of all users in the list.
 
+![Dom methods](https://github.com/user-attachments/assets/ee2378df-f65b-4a5c-9621-04eafcb092ff)
 
 
 
