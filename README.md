@@ -4,13 +4,6 @@ This project uses HTML, CSS, and JavaScript to create a dynamic web application 
 ## Overview
 The application consists of a simple interface with a series of buttons that allow the user to perform various operations on the list of users. Users are fetched from the Random User API and displayed with a randomly assigned amount of money. The user can then manipulate this data using the provided buttons.
 
-## Installation
-1. Clone the repository:
-git clone https://github.com/yourusername/dom-array-methods.git
-
-2. Navigate to the project directory:
-cd dom-array-methods
-
 ## Usage
 1. Open the index.html file in your web browser.
 
